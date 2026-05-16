@@ -2,3 +2,9 @@ pandas
 numpy
 matplotlib
 openpyxl
+seaborn
+PyWavelets
+statsmodels
+scikit-learn
+xgboost
+optuna
