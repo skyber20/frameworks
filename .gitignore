@@ -393,3 +393,9 @@ cython_debug/
 # Editor-based Rest Client
 
 # Android studio 3.1+ serialized cache file
+
+tz.pdf
+frames/
+outputs/
+best_detector.pth
+annotations/
